@@ -1,0 +1,7 @@
+ubuntu-yakkety.tgz filter=lfs diff=lfs merge=lfs -text
+e1000e-3.3.5.tar.gz filter=lfs diff=lfs merge=lfs -text
+igb-5.3.4.4.tar.gz filter=lfs diff=lfs merge=lfs -text
+igb-5.3.5.3.tar.gz filter=lfs diff=lfs merge=lfs -text
+ixgbe-4.4.6.tar.gz filter=lfs diff=lfs merge=lfs -text
+pkg-zfs.tar.gz filter=lfs diff=lfs merge=lfs -text
+pkg-spl.tar.gz filter=lfs diff=lfs merge=lfs -text
